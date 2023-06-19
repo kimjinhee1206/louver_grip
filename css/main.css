@@ -412,3 +412,33 @@ footer {
     font-family: 'Pretendard-Thin';
     font-size: 16px;
 }
+
+.detail{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size : 20px;
+    background-color: #FAF0D5;
+    padding: 10px;
+    width : 600px;
+    height: 400px;
+    margin-bottom: 10px;
+    display:block;
+    border-radius: 20px;
+    margin : 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.detial .title{
+    /* font-family: 'Stylish', sans-serif; */
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top : 20px;
+}
+.detial .meta{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 14px;
+    color: gray;
+}
+.detial .content{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 16px;
+}
