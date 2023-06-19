@@ -2,7 +2,7 @@ h3 {
     font-family: 'Pretendard-Thin';
     color: #ffffff;
     text-align: center;
-    font-style: italic;
+    /* font-style: italic; */
     font-weight: lighter;
     margin-top: 50px;
     font-size: 20px;
@@ -45,7 +45,7 @@ h3 {
 
 .menu {
     font-size: 20px;
-    font-style: italic;
+    /* font-style: italic; */
     align-items: center;
     text-align: center;
     padding-top: 80px;
@@ -101,7 +101,7 @@ h1 {
     font-weight: 400;
     font-size: 18px;
     line-height: 1.5;
-    font-style: italic;
+    /* font-style: italic; */
 }
 
 .list_img {
@@ -137,11 +137,11 @@ h1 {
 
 .ct {
     margin-top: 80px;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Pretendard-Thin';
     text-decoration: none;
     color: white;
     font-size: 50px;
-    font-style: italic;
+    /* font-style: italic; */
     margin: 35px;
 }
 
